@@ -1,0 +1,5 @@
+cpp/bin/
+cpp/build/
+cpp/lib/
+cpp/include/SDL2/
+__pycache__/
