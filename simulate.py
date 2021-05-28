@@ -11,7 +11,7 @@ from learner import DNA, GenePool
 # pygame
 pygame.init()
 window = pygame.display.set_mode((window_width, window_height))
-pygame.display.set_caption("Genetic Pathfinding")
+pygame.display.set_caption("Evolutionary Pathfinding")
 
 # fps [ fps = 60 ]
 fps = 60
