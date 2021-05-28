@@ -3,3 +3,4 @@ cpp/build/
 cpp/lib/
 cpp/include/SDL2/
 __pycache__/
+clones/
