@@ -1,2 +1,2 @@
 # GeneticMovement
-<img src="/gifs/gif_0.gif" width="97.5" />
+<img src="/gifs/gif_0.gif" width="97.5%" />
