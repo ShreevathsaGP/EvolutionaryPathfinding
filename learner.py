@@ -28,7 +28,7 @@ class DNA:
 
 # gene pool
 class GenePool:
-    population_size = 2000
+    population_size = 1200
     def __init__(self):
         # population
         self.population = []
